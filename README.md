@@ -50,10 +50,11 @@ Follow these instructions to get the project up and running on your local machin
 
 Your application should now be running at `http://localhost:8000`.
 
-Credentials 
+Login credential
+```
 Email       : superadmin@test.com
 Passsword   : Superadmin2024!
-
+```
 ## Credits
 
 This project is using Volt admin dashboard based on the Larastarter package by [Laravel Daily](https://github.com/LaravelDaily/Larastarter).
