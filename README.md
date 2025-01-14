@@ -27,14 +27,12 @@ Follow these instructions to get the project up and running on your local machin
     npm install && npm run build
     ```
     ```npm run build``` are needed to build the assets
-    <br>
 
 3. Copy the `.env.example` file to `.env`:
     ```bash
     cp .env.example .env
     ```
     Don't forget to change the DB credentials to your likings.
-    <br>
 
 4. Generate the application key:
     ```bash
