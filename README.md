@@ -25,7 +25,9 @@ Follow these instructions to get the project up and running on your local machin
     ```bash
     composer install
     npm install
+    npm run build
     ```
+    ```npm run build``` are needed to build the assets
 
 3. Copy the `.env.example` file to `.env`:
     ```bash
