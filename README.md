@@ -17,8 +17,8 @@ Follow these instructions to get the project up and running on your local machin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/laravolt-livewire-boilerplate.git
-    cd laravolt-livewire-boilerplate
+    git clone https://github.com/rzki/laravolt-livewire-boilerplate.git
+    cd laravel-volt-livewire-boilerplate
     ```
 
 2. Install the dependencies:
@@ -31,6 +31,7 @@ Follow these instructions to get the project up and running on your local machin
     ```bash
     cp .env.example .env
     ```
+    Don't forget to change the DB credentials to your likings.
 
 4. Generate the application key:
     ```bash
