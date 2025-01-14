@@ -1,6 +1,6 @@
 # Laravolt Livewire Boilerplate
 
-This is a boilerplate project for Laravel using Livewire.
+This is a boilerplate project for Laravel using Livewire, and Volt for Admin Dashboard.
 
 ## Getting Started
 
